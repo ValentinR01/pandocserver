@@ -1,6 +1,6 @@
 module github.com/firefart/pandocserver
 
-go 1.25.0
+go 1.25.10
 
 require (
 	github.com/knadh/koanf/parsers/json v1.0.1
@@ -11,7 +11,7 @@ require (
 	github.com/labstack/echo/v5 v5.3.1
 	github.com/lmittmann/tint v1.2.0
 	github.com/mattn/go-isatty v0.0.24
-	github.com/nikoksr/notify v1.5.0
+	github.com/nikoksr/notify v1.6.0
 )
 
 require (
